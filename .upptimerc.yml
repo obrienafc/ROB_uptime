@@ -23,7 +23,8 @@ status-website:
   name: Rody O'Brien Legal Education Status
   favicon: https://cdn.rodyobrien.com/images/2025-rebrand-logo.png
   introTitle: "Welcome to the Rody O'Brien Legal Education status page."
-  introMessage: This is your go-to source for real-time updates on the performance and uptime of our services. **Looking for help?** If you are experiencing an issue not listed on this page, please reach out to our support team directly at info@rodyobrien.com.
+  introMessage: This is your go-to source for real-time updates on the performance and uptime of our services.   
+  **Looking for help?** If you are experiencing an issue not listed on this page, please reach out to our support team directly at info@rodyobrien.com.
   navbar:
     - title: Status
       href: /
