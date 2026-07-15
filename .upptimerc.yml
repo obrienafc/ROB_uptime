@@ -30,5 +30,8 @@ status-website:
     - title: Contact us
       href: mailto:info@rodyobrien.com
 
+ i18n:
+  footer: This page is powered by [Upptime](https://upptime.js.org). 
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
