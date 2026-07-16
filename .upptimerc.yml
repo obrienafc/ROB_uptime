@@ -20,6 +20,7 @@ status-website:
   cname: status.rodyobrien.com
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.rodyobrien.com/images/2025-rebrand-logo.png
+  themeUrl: https://cdn.rodyobrien.com/web/status.css
   name: Rody O'Brien Legal Education Status
   favicon: https://cdn.rodyobrien.com/images/2025-rebrand-logo.png
   introTitle: "Welcome to the Rody O'Brien Legal Education status page."
@@ -30,7 +31,9 @@ status-website:
     - title: Contact us
       href: mailto:info@rodyobrien.com
 
- i18n:
+il8n:
+  footer: Copyright © 2026 Rody O'Brien Legal Education. This page is powered by [Upptime](https://upptime.js.org). 
+
  footer: This page is powered by [Upptime](https://upptime.js.org). 
 
 # Upptime also supports notifications, assigning issues, and more
