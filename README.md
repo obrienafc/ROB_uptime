@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.rodyobrien.com): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Patrick O'Brien](patrick.omg.lol), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Rody O'Brien Legal Education](rodyobrien.com), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/obrienafc/ROB_Uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/obrienafc/ROB_Uptime/actions/workflows/uptime.yml)
 [![Response Time CI](https://github.com/obrienafc/ROB_Uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/obrienafc/ROB_Uptime/actions/workflows/response-time.yml)
