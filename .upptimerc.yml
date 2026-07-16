@@ -1,6 +1,6 @@
-owner: obrienafc # Your GitHub organization or username, where this repository lives
-repo: ROB_Uptime # The name of this repository
-
+---
+owner: obrienafc
+repo: ROB_Uptime
 sites:
   - name: CPD Portal
     url: https://cpd.rodyobrien.com
@@ -12,29 +12,22 @@ sites:
   - name: Infomaniak KSuite
     url: https://ksuite.infomaniak.com
     icon: https://cdn.rodyobrien.com/images/kSuite.png
-
-
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.rodyobrien.com
-  # baseUrl: /your-repo-name
   logoUrl: https://cdn.rodyobrien.com/images/2025-rebrand-logo.png
   themeUrl: https://cdn.rodyobrien.com/web/status.css
   name: Rody O'Brien Legal Education Status
   favicon: https://cdn.rodyobrien.com/images/2025-rebrand-logo.png
-  introTitle: "Welcome to the Rody O'Brien Legal Education status page."
-  introMessage: This is your go-to source for real-time updates on the performance and uptime of our services. **Looking for help?** If you are experiencing an issue not listed on this page, please reach out to our support team directly at info@rodyobrien.com.
+  introTitle: Welcome to the Rody O'Brien Legal Education status page.
+  introMessage: This is your go-to source for real-time updates on the performance
+    and uptime of our services. **Looking for help?** If you are experiencing an
+    issue not listed on this page, please reach out to our support team directly
+    at info@rodyobrien.com.
   navbar:
     - title: Status
       href: /
     - title: Contact us
       href: mailto:info@rodyobrien.com
-
 il8n:
-  footer: Copyright © 2026 Rody O'Brien Legal Education. This page is powered by [Upptime](https://upptime.js.org). 
-
- footer: This page is powered by [Upptime](https://upptime.js.org). 
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  footer: Copyright © 2026 Rody O'Brien Legal Education. This page is powered by
+    [Upptime](https://upptime.js.org).
