@@ -4,36 +4,40 @@
     "url": "https://cpd.rodyobrien.com",
     "icon": "https://icons.duckduckgo.com/ip3/cpd.rodyobrien.com.ico",
     "slug": "cpd-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 597,
     "timeDay": 528,
-    "timeWeek": 597,
+    "timeWeek": 583,
     "timeMonth": 597,
     "timeYear": 597,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-22": 0
+    }
   },
   {
     "name": "Content Delivery Network",
     "url": "https://cdn.rodyobrien.com",
     "icon": "https://cdn.rodyobrien.com/images/2025-rebrand-logo.png",
     "slug": "content-delivery-network",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 845,
     "timeDay": 568,
-    "timeWeek": 845,
+    "timeWeek": 567,
     "timeMonth": 845,
     "timeYear": 845,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-22": 0
+    }
   },
   {
     "name": "Mailer",
@@ -48,7 +52,7 @@
     "uptimeYear": "100.00%",
     "time": 415,
     "timeDay": 504,
-    "timeWeek": 415,
+    "timeWeek": 432,
     "timeMonth": 415,
     "timeYear": 415,
     "dailyMinutesDown": {}
@@ -66,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 2194,
     "timeDay": 2660,
-    "timeWeek": 2194,
+    "timeWeek": 2317,
     "timeMonth": 2194,
     "timeYear": 2194,
     "dailyMinutesDown": {}
