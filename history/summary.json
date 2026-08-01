@@ -4,15 +4,15 @@
     "url": "https://cpd.rodyobrien.com",
     "icon": "https://icons.duckduckgo.com/ip3/cpd.rodyobrien.com.ico",
     "slug": "cpd-portal",
-    "status": "up",
-    "uptime": "90.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "87.98%",
-    "uptimeMonth": "90.50%",
-    "uptimeYear": "90.50%",
+    "status": "down",
+    "uptime": "90.56%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "88.49%",
+    "uptimeMonth": "90.56%",
+    "uptimeYear": "90.56%",
     "time": 758,
-    "timeDay": 960,
-    "timeWeek": 910,
+    "timeDay": 853,
+    "timeWeek": 907,
     "timeMonth": 758,
     "timeYear": 758,
     "dailyMinutesDown": {
@@ -21,7 +21,8 @@
       "2026-07-24": 92,
       "2026-07-25": 491,
       "2026-07-26": 230,
-      "2026-07-27": 492
+      "2026-07-27": 492,
+      "2026-08-01": 0
     }
   },
   {
@@ -29,15 +30,15 @@
     "url": "https://cdn.rodyobrien.com",
     "icon": "https://cdn.rodyobrien.com/images/2025-rebrand-logo.png",
     "slug": "content-delivery-network",
-    "status": "up",
-    "uptime": "90.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "88.00%",
-    "uptimeMonth": "90.51%",
-    "uptimeYear": "90.51%",
+    "status": "down",
+    "uptime": "90.58%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "88.51%",
+    "uptimeMonth": "90.58%",
+    "uptimeYear": "90.58%",
     "time": 754,
-    "timeDay": 1028,
-    "timeWeek": 756,
+    "timeDay": 888,
+    "timeWeek": 755,
     "timeMonth": 754,
     "timeYear": 754,
     "dailyMinutesDown": {
@@ -46,7 +47,8 @@
       "2026-07-24": 92,
       "2026-07-25": 489,
       "2026-07-26": 228,
-      "2026-07-27": 492
+      "2026-07-27": 492,
+      "2026-08-01": 0
     }
   },
   {
